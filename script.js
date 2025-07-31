@@ -1,0 +1,1 @@
+console.log('Plataforma Tec/Office carregada com sucesso!');
